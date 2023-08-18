@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/manika-portfolio/static/css/main.46a67a07.css",
+    "main.js": "/manika-portfolio/static/js/main.100fcc39.js",
+    "static/js/496.1811ca5a.chunk.js": "/manika-portfolio/static/js/496.1811ca5a.chunk.js",
+    "static/media/leaf.png": "/manika-portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/manika-portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/manika-portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/manika-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/manika-portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/manika-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/manika-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/manika-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/manika-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/manika-portfolio/static/media/avatar.339e1de159c42e55674f55b06f7ae0f1.svg",
+    "static/media/pre.svg": "/manika-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/manika-portfolio/index.html",
+    "main.46a67a07.css.map": "/manika-portfolio/static/css/main.46a67a07.css.map",
+    "main.100fcc39.js.map": "/manika-portfolio/static/js/main.100fcc39.js.map",
+    "496.1811ca5a.chunk.js.map": "/manika-portfolio/static/js/496.1811ca5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a67a07.css",
+    "static/js/main.100fcc39.js"
+  ]
+}
